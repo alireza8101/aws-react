@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"awsreactff3d656e": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
